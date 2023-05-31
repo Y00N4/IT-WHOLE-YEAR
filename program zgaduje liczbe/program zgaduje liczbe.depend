@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679406922 source:c:\users\lo_ii\desktop\test\program zgaduje liczbe\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

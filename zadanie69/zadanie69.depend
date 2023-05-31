@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680003704 source:c:\users\lo_ii\desktop\test\zadanie69\main.cpp
+	<iostream>
+	<string>
+	<map>
+
